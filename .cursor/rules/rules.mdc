@@ -8,4 +8,12 @@ All text in .md files is meant for ukrainian school students and should use ukra
 
 All .md files are written as short articles, explaining some aspect of Python programming language.
 
-Stule and terminology should be consistent across all .md files.
+Top level headings of every .md file should match it's filename.
+
+When describing new concept, give short and concise reason why and how this concept can be used.
+
+When appropriate, code examples should be followed by execution results.
+
+Code examples should use english names for variables and functions.
+
+Style and terminology should be consistent across all .md files.
