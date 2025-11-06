@@ -1,0 +1,7 @@
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    document.querySelectorAll('a[href$=".md"]').forEach(function(link) {
+      link.href = link.href.replace(/\.md$/, ".html");
+    });
+  });
+</script>
