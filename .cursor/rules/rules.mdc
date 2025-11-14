@@ -8,6 +8,8 @@ All .md files should use GitHub Flavored Markdown (GFM).
 
 All text in .md files is meant for ukrainian school students and should use ukrainian language.
 
+All text meassages that are printed in code examples should use ukrainian language.
+
 All .md files are written as short articles, explaining some aspect of Python programming language.
 
 Top level headings of every .md file should match it's filename.
