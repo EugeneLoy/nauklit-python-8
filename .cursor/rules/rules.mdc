@@ -24,3 +24,4 @@ Style and terminology should be consistent across all .md files.
 
 Refer to "outputting" as "друкування" in ukrainian.
 
+`Залежності.md` Contains mermaid chart that visualizes dependencies between articles. Arrows point from dependent article toward article it depends on. The more independent article is - the higher it is placed on the chart. The more dependencies article has - the lower it is on the chart. All articles are mentioned in `README.md`. Every article lists all articles it depends on at the the top of the article.
