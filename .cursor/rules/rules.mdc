@@ -41,3 +41,5 @@ In flow diagrams combine `input()` and relevant `print()` command (with prompt) 
 `exercises` folder contains coding exercises.
 
 Every line of coding exercise code should be 40 characters or less.
+
+Always use non-breaking spaces when writing formatted code pieces in tables. Only exception is - use regular space at the end of line of code, before `#`
