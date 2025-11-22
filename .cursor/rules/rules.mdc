@@ -31,3 +31,13 @@ Blocks of code that contain python code should specify language for syntax highl
 Code examples should be simple yet meaningful (ideally, related to real life situations).
 
 Refer to flow diagram as "блок-схема".
+
+Generate flow diagrams only when explicitly asked.
+
+In flow diagrams use oval nodes for "start" and "end".
+
+In flow diagrams combine `input()` and relevant `print()` command (with prompt) into one parallelogram node.
+
+`exercises` folder contains coding exercises.
+
+Every line of coding exercise code should be less than 40 characters.
