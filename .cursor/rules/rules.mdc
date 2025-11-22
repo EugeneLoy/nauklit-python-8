@@ -40,4 +40,4 @@ In flow diagrams combine `input()` and relevant `print()` command (with prompt) 
 
 `exercises` folder contains coding exercises.
 
-Every line of coding exercise code should be less than 40 characters.
+Every line of coding exercise code should be 40 characters or less.
