@@ -10,7 +10,7 @@
 # що вона реагує на різні значення.
 # Для виконання потрібно знати про:
 # 
-# https://tinyurl.com/bd3kb35k
+# https://tinyurl.com/y2nbx44k
 
 print("Введіть тестовий бал:")
 score = int(input())
