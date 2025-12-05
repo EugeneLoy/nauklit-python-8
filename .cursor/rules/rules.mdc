@@ -45,3 +45,11 @@ Every line of coding exercise code should be 40 characters or less.
 Every coding exercise should end with 3 empty lines.
 
 Refer to argument of a function or mentod as "аргумент" instead of "параметр".
+
+When using tkiner in examples:
+* use `from tkinter import *`;
+* use `configure` method instead of changing object properties using indexing operator when possible;
+* assume only one window will be created - do not pass window to widgets unless necessary;
+* use `window` for name of window variable;
+* for setting window title use `title` method.
+* always leave empty line before `window.mainloop()`
