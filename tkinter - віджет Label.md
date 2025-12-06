@@ -31,9 +31,10 @@ window.mainloop()
 | `bg` | Фоновий колір | `Label(text="Привіт!", bg="yellow")` |
 | `fg` | Колір тексту | `Label(text="Привіт!", fg="blue")` |
 | `font` | Шрифт (назва, розмір) | `Label(text="Привіт!", font=("Arial", 16))` |
-| `width`, `height` | Розміри у символах | `Label(text="Привіт!", width=20, height=2)` |
+| `width` | Ширина у символах | `Label(text="Привіт!", width=20)` |
+| `height` | Висота у символах | `Label(text="Привіт!", height=2)` |
 | `padx`, `pady` | Внутрішні відступи | `Label(text="Привіт!", padx=10, pady=5)` |
-| `anchor` | Вирівнювання вмісту | `Label(text="Привіт!", anchor="w")` |
-| `justify` | Вирівнювання рядків тексту | `Label(text="Привіт!", justify="left")` |
+| `anchor` | Вирівнювання вмісту (`"n"`, `"s"`, `"e"`, `"w"`, `"ne"`, `"nw"`, `"se"`, `"sw"`, `"center"`) | `Label(text="Привіт!", anchor="w")` |
+| `justify` | Вирівнювання рядків тексту (`"left"`, `"right"`, `"center"`) | `Label(text="Привіт!", justify="left")` |
 | `wraplength` | Ширина переносу тексту | `Label(text="Привіт!", wraplength=6)` |
 
