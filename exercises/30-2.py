@@ -8,7 +8,7 @@
 # жовтий або зелений.
 # 
 # Для виконання потрібно знати про:
-# https://tinyurl.com/xxxxx
+# https://tinyurl.com/28yw65er
 
 from tkinter import *
 
@@ -48,6 +48,11 @@ label.pack()
 #  потім розмістіть її
 
 window.mainloop()
+
+
+
+
+
 
 
 
