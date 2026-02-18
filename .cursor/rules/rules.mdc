@@ -55,3 +55,5 @@ When using tkiner in examples:
 * always leave empty line before `window.mainloop()`
 
 Use simple quotes (`"`) in article text instead of fancy ones like `“` and `”`.
+
+Do not use em dash - use "-" instead.
