@@ -1,5 +1,6 @@
 # Для виконання потрібно знати про:
-# * [Цикли for](https://tinyurl.com/ydcmj3sp)
+# * [Цикли - функція range](https://tinyurl.com/2vz8njcz)
+# * [Цикли for та списки](https://tinyurl.com/3ybppcf4)
 #
 # Надрукуйте кожен і-тий фрукт в корзині (і обирає користувач):
 # ```
